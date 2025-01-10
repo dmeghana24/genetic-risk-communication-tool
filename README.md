@@ -1,6 +1,5 @@
 # genetic-risk-communication-tool
 Personalized Genetic Risk Communication Tool for Electronic Health Records
-Here’s a **README.md** file tailored to your project, written in a style similar to the sample provided:
 
 ---
 
