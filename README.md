@@ -28,9 +28,8 @@ This project involves a three-way classification task where the target classes a
 2. **Non-Personal Reports**: Risk information related to others (e.g., family or caregivers).
 3. **Literature/News Mentions**: General references or scientific discourse unrelated to specific individuals.
 
-## Contributors
-
-This project was completed as part of an individual effort by [Your Name].
+## Contributor:
+   Meghana 
 
 ## Methodology
 
@@ -94,9 +93,6 @@ The tool will produce:
 2. Improving NLP models using pre-trained transformers like BERT for better accuracy in NER tasks.
 3. Conducting larger-scale evaluations with healthcare professionals.
 
----
-
-This README provides an overview of your project while maintaining clarity and professionalism, making it suitable for sharing on platforms like GitHub or in academic settings.
 
 Citations:
 [1] https://ceur-ws.org/Vol-3395/T5-4.pdf
