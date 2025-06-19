@@ -1,6 +1,6 @@
 # genetic-risk-communication-tool
 Personalized Genetic Risk Communication Tool for Electronic Health Records
-
+Final Cource project: LHS 712 
 ---
 
 # Personalized Genetic Risk Communication Tool for Electronic Health Records
